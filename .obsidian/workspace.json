@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "5ae76dbe1f4aecfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b58bced2db18a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e31b55e5a7d0ee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Notas Brutas/Adicionar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adicionar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "70c124da3033de5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88778bd855f283cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Sistemas de Produção/Toyotismo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Toyotismo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc377bceb321968a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1d08c776aa466da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cf344c3694c09dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "6a75037994661060",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "b3926d0c5b1d8f91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "371278204d835095",
+    "type": "split",
+    "children": [
+      {
+        "id": "39a2118a7522ecec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6e375463add4ff9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "99 - Notas Brutas/Adicionar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Adicionar"
+            }
+          },
+          {
+            "id": "0d9628eef4dc61d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "99 - Notas Brutas/Adicionar.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Adicionar"
+            }
+          },
+          {
+            "id": "3d00edfa018a153a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1ec54a7ca3aa21d0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "0d83b001fc3acaba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "99 - Notas Brutas/Adicionar.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Adicionar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "3e31b55e5a7d0ee6",
+  "lastOpenFiles": [
+    "04 - WMS e Excelência Operacional/5S.md",
+    "04 - WMS e Excelência Operacional/Sistema de Gestão de Manufatura.md",
+    "04 - WMS e Excelência Operacional/Princípios do WMS.md",
+    "02 - Sistemas de Produção/Toyotismo.md",
+    "99 - Notas Brutas/Adicionar.md",
+    "00 - Início.md",
+    "01 - Visão Geral/00 - Visão Geral.md",
+    "01 - Visão Geral/Resumo para Prova.md",
+    "01 - Visão Geral/Quadro Comparativo.md",
+    "99 - Notas Brutas/00 - Notas Brutas.md",
+    "Adicionar.md",
+    "04 - WMS e Excelência Operacional/Comissões e Comitês.md",
+    "04 - WMS e Excelência Operacional/Perdas e Desperdícios.md",
+    "04 - WMS e Excelência Operacional/Excelência Operacional.md",
+    "04 - WMS e Excelência Operacional/Evolução do WMS na WEG.md",
+    "04 - WMS e Excelência Operacional/WMS.md",
+    "04 - WMS e Excelência Operacional/00 - WMS e Excelência Operacional.md",
+    "99 - Notas Brutas",
+    "04 - WMS e Excelência Operacional",
+    "03 - Sistemas de Melhoria/Lean Six Sigma.md",
+    "01 - Visão Geral/Termos e Siglas.md",
+    "02 - Sistemas de Produção/00 - Sistemas de Produção.md",
+    "03 - Sistemas de Melhoria/00 - Sistemas de Melhoria.md",
+    "Termos e Siglas.md",
+    "01 - Visão Geral/Evolução dos Sistemas.md",
+    "01 - Visão Geral",
+    "Evolução dos sistemas.md",
+    "Sistema de Melhoria.md",
+    "Sistemas de Produção/Fordismo.md",
+    "03 - Sistemas de Melhoria",
+    "02 - Sistemas de Produção",
+    "Sem título",
+    "Sistemas de Melhoria",
+    "Sistemas de Produção",
+    "Sistema de Melhoria"
+  ]
+}
