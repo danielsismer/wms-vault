@@ -37,3 +37,14 @@ Características comuns:
 ## Relação com a evolução da WEG
 
 Na linha da aula, as comissões aparecem em 1969 e os comitês em 1998. Isso sugere uma evolução de iniciativas mais pontuais para estruturas mais formais de gestão da melhoria.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

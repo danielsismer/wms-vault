@@ -48,3 +48,14 @@ Em muitos casos, o desperdício gera perda. Por exemplo: estoque excessivo é de
 ## Como responder em prova
 
 Perda é o resultado negativo mensurável; desperdício é o consumo desnecessário de recurso ou atividade que não agrega valor. O desperdício costuma gerar perdas, mas a perda é observada no impacto final do processo.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

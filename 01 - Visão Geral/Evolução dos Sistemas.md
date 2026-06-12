@@ -30,3 +30,14 @@ Os sistemas mais recentes não "apagam" os anteriores. Eles aproveitam o que fun
 ## Relação com a WEG
 
 Na aula, a evolução também apareceu dentro da história da WEG: comissões, grupos de racionalização, CCQ, 5S, comitês e outros programas foram preparando a empresa para chegar ao WMS. Essa linha está detalhada em [[04 - WMS e Excelência Operacional/Evolução do WMS na WEG|Evolução do WMS na WEG]].
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

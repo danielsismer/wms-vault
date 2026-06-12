@@ -43,3 +43,14 @@ O [[04 - WMS e Excelência Operacional/WMS|WMS]] é uma forma de operacionalizar
 ## Frase para memorizar
 
 Excelência operacional é entregar melhor resultado com processos estáveis, seguros, padronizados e continuamente melhorados.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

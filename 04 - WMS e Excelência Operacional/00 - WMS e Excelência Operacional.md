@@ -6,7 +6,7 @@ Esta pasta reúne o conteúdo específico sobre WMS, aplicação na WEG e concei
 
 - [[04 - WMS e Excelência Operacional/WMS|WMS]]: definição, foco, objetivos e funcionamento.
 - [[04 - WMS e Excelência Operacional/Princípios do WMS|Princípios do WMS]]: dez princípios básicos apresentados na aula.
-- [[04 - WMS e Excelência Operacional/Sistema de Gestão de Manufatura|Sistema de Gestão de Manufatura]]: estabilidade básica, redução de perdas e metodologia dos pilares.
+- [[04 - WMS e Excelência Operacional/Sistema de Gestão de Manufatura|Sistema de Gestão de Manufatura]]: estabilidade básica, redução de perdas e melhoria sistêmica.
 - [[04 - WMS e Excelência Operacional/Evolução do WMS na WEG|Evolução do WMS na WEG]]: linha histórica apresentada na aula.
 - [[04 - WMS e Excelência Operacional/Excelência Operacional|Excelência Operacional]]: por que existe, o que busca e como funciona.
 - [[04 - WMS e Excelência Operacional/Perdas e Desperdícios|Perdas e Desperdícios]]: diferença conceitual e exemplos.
@@ -23,7 +23,19 @@ Esta pasta reúne o conteúdo específico sobre WMS, aplicação na WEG e concei
 6. [[04 - WMS e Excelência Operacional/Perdas e Desperdícios|Perdas e Desperdícios]]
 7. [[04 - WMS e Excelência Operacional/Evolução do WMS na WEG|Evolução do WMS na WEG]]
 8. [[04 - WMS e Excelência Operacional/Comissões e Comitês|Comissões e Comitês]]
+9. [[05 - Rotina e Solução de Problemas/00 - Rotina e Solução de Problemas|Rotina e Solução de Problemas]]
 
 ## Ideia central
 
 O WMS organiza a melhoria contínua para que a empresa identifique perdas, elimine desperdícios, padronize métodos e envolva todos os colaboradores em resultados melhores.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

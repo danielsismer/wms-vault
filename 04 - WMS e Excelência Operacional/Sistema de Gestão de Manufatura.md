@@ -1,6 +1,6 @@
 # Sistema de Gestão de Manufatura
 
-O sistema de gestão de manufatura organiza a evolução da melhoria em etapas. Na aula, ele apareceu em três grandes movimentos: estabilidade básica, redução de perdas e metodologia dos pilares.
+O WMS Manufacturing organiza a implantação em três frentes: estabilidade básica, redução de perdas e melhoria sistêmica. A metodologia dos pilares é um dos meios usados para sustentar a melhoria sistêmica.
 
 ## Visão geral
 
@@ -8,7 +8,7 @@ O sistema de gestão de manufatura organiza a evolução da melhoria em etapas. 
 | --- | --- | --- |
 | Estabilidade básica | Definir a base do processo. | Criar condições mínimas de segurança, organização, rotina e previsibilidade. |
 | Redução de perdas | Otimizar o processo. | Atacar perdas relevantes em segurança, qualidade, custo, meio ambiente e produtividade. |
-| Metodologia dos pilares | Transformar o sistema. | Usar pilares e passos estruturados para sustentar a melhoria contínua. |
+| Melhoria sistêmica | Transformar e sustentar. | Usar equipes multidisciplinares, pilares e métodos padronizados. |
 
 ## 1. Estabilidade básica: definir
 
@@ -18,8 +18,8 @@ Elementos principais:
 
 - Procedimentos.
 - [[04 - WMS e Excelência Operacional/5S|5S]].
-- Gerenciamento da rotina.
-- Métodos e tempos.
+- [[05 - Rotina e Solução de Problemas/Gerenciamento da Rotina|Gerenciamento da Rotina]].
+- [[05 - Rotina e Solução de Problemas/Métodos e Tempos|Métodos e Tempos]].
 
 ### Procedimentos
 
@@ -39,34 +39,50 @@ São importantes para:
 - Consistência.
 - Eficiência.
 
-### Gerenciamento da rotina
-
-É o acompanhamento diário do processo por meio de padrões, indicadores, reuniões, gestão visual e reação rápida a desvios.
-
-### Métodos e tempos
-
-Envolve estudar a melhor forma de executar o trabalho e o tempo necessário para cada atividade. Ajuda no balanceamento, na produtividade e na identificação de perdas.
-
 ## 2. Redução de perdas: otimizar
 
 Depois que a base está mais estável, o foco passa a ser reduzir perdas relevantes do processo.
 
-Áreas citadas na aula:
+Os quatro direcionadores publicados pela WEG são:
 
 - Segurança.
 - Qualidade.
-- Desdobramento de custos.
-- Gases de efeito estufa.
-- Kaizen.
+- Meio ambiente.
+- Custos.
 
-## 3. Metodologia dos pilares: transformar
+O material da aula também relaciona desdobramento de custos, emissões de gases de efeito estufa e [[05 - Rotina e Solução de Problemas/Kaizen|Kaizen]] às ações de redução.
 
-Nesta etapa, a melhoria é organizada pelos pilares do sistema. A aula citou a existência de uma metodologia em 7 passos.
+### Ciclo de redução de perdas
+
+1. Mapear ou auditar processos e identificar perdas.
+2. Definir metas compartilhadas.
+3. Priorizar oportunidades e selecionar projetos.
+4. Acompanhar por área e junto à direção.
+5. Validar resultados e acompanhar metas.
+
+## 3. Melhoria sistêmica: transformar
+
+Equipes multidisciplinares evoluem frentes como segurança, qualidade, custo, Kaizen, 5S, organização do posto, manutenção, logística, pessoas, engenharia, meio ambiente e energia.
+
+### Metodologia dos pilares
+
+Os pilares usam uma sequência padronizada de passos, auditorias e certificações. A quantidade e o conteúdo dos passos podem variar conforme o pilar.
 
 ## Ponto para confirmar
 
-A professora citou "7 passos", mas o rascunho ainda não contém quais são esses passos. Vale confirmar a lista completa na próxima aula.
+A aula citou uma lógica geral de 7 passos. A fonte pública da WEG detalha inicialmente três passos para o pilar de Meio Ambiente e Energia, portanto a lista específica de 7 passos deve ser confirmada no material da disciplina.
 
 ## Relação com WMS
 
-O [[04 - WMS e Excelência Operacional/WMS|WMS]] usa essa lógica para transformar melhoria contínua em rotina: primeiro estabiliza, depois reduz perdas e, por fim, sustenta a transformação por pilares.
+O [[04 - WMS e Excelência Operacional/WMS|WMS]] usa essa lógica para transformar melhoria contínua em rotina: primeiro estabiliza, depois reduz perdas e, por fim, promove melhoria sistêmica por equipes e pilares.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

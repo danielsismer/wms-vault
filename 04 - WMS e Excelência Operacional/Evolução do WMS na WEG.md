@@ -30,3 +30,14 @@ Uma resposta forte pode dizer que o WMS representa uma maturidade maior do siste
 - Significado completo de PSS.
 - Significado completo de PMC.
 - Se a professora espera as datas exatamente como marco histórico da WEG.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

@@ -128,6 +128,10 @@ Tempo total entre o início e o fim de um fluxo, como do pedido até a entrega o
 
 Key Performance Indicator ou indicador-chave de desempenho. Mede se o processo está atingindo objetivos importantes.
 
+### KAI
+
+Key Activity Indicator ou indicador-chave de atividade. Mede a execução de atividades operacionais relacionadas aos resultados acompanhados por KPI.
+
 ### Roadmap
 
 Roteiro de implantação. Mostra etapas, prioridades, responsáveis e prazos para executar uma estratégia ou programa.
@@ -148,6 +152,54 @@ Acompanhamento diário do processo por meio de padrões, indicadores, gestão vi
 
 Estudo da forma de executar o trabalho e do tempo necessário para realizar atividades. Ajuda a melhorar produtividade, balanceamento e eficiência.
 
+### Cronoanálise
+
+Medição direta dos tempos de uma operação por observação de ciclos com cronômetro, considerando método, ritmo e tolerâncias.
+
+### MTM
+
+Methods-Time Measurement. Sistema de tempos predeterminados que descreve trabalho manual por movimentos e associa tempos de referência.
+
+### Tempo de ciclo
+
+Tempo necessário para concluir um ciclo de trabalho antes de repeti-lo.
+
+### Takt time
+
+Ritmo de produção necessário para atender à demanda do cliente.
+
+### Gargalo
+
+Recurso ou etapa que restringe a capacidade ou a vazão do sistema.
+
+### Setup
+
+Preparação para mudar produto, lote, ferramenta ou condição de produção.
+
+### Setup interno
+
+Atividade de troca que exige o equipamento parado.
+
+### Setup externo
+
+Atividade de troca que pode ser realizada com o equipamento operando.
+
+### Balanceamento de linha
+
+Distribuição dos elementos de trabalho entre postos para aproximar as cargas do ritmo necessário.
+
+### VAA
+
+Atividade que agrega valor ao transformar o produto ou serviço de forma reconhecida pelo cliente.
+
+### NVAA-N
+
+Atividade que não agrega valor, mas é necessária nas condições atuais.
+
+### NVAA
+
+Atividade que não agrega valor e não é necessária; deve ser eliminada.
+
 ### Estabilidade básica
 
 Primeira etapa do sistema de gestão de manufatura. Busca criar uma base estável com procedimentos, 5S, rotina, métodos e tempos.
@@ -158,11 +210,43 @@ Etapa de otimização focada em atacar perdas de segurança, qualidade, custos, 
 
 ### Metodologia dos pilares
 
-Etapa de transformação em que as melhorias são conduzidas por pilares técnicos e gerenciais. Na aula, foi citada uma metodologia de 7 passos.
+Método padronizado usado por equipes multidisciplinares para desenvolver cada frente do sistema. A quantidade de passos pode variar conforme o pilar.
 
 ### Voz do cliente
 
 Necessidades e expectativas do cliente traduzidas para decisões no processo. No WMS, a voz do cliente deve chegar ao chão de fábrica.
+
+### 5G
+
+Método de análise baseado em Gemba, Genbutsu, Genjitsu, Genri e Gensoku: local, objeto, fatos, princípios e regras reais.
+
+### 5W1H
+
+Perguntas What, Where, When, Who, Why e How usadas para descrever claramente um problema.
+
+### 5W2H
+
+Estrutura de plano de ação que acrescenta How much ao 5W1H.
+
+### Pareto
+
+Gráfico que ordena categorias por frequência, impacto ou custo para apoiar priorização.
+
+### Ishikawa
+
+Diagrama de causa e efeito usado para organizar causas possíveis de um problema.
+
+### 6M
+
+Categorias máquina, método, material, mão de obra, medição e meio ambiente.
+
+### 5 Porquês
+
+Técnica de aprofundamento causal baseada em repetir a pergunta "por quê?" até chegar a uma causa tratável e verificável.
+
+### A3
+
+Método de pensamento e comunicação que organiza contexto, situação, causa, contramedidas, plano e verificação em uma página.
 
 ## Pilares técnicos WCM
 
@@ -180,7 +264,7 @@ Focused Improvement. Pilar de melhoria focada.
 
 ### AM
 
-Autonomous Maintenance. Pilar de manutenção autônoma.
+No WCM, Autonomous Maintenance. No material público do WMS da WEG, aparece como Atividades Autônomas.
 
 ### WO
 
@@ -295,3 +379,14 @@ Princípio que reforça a melhoria no processo real, no gemba, por meio de obser
 ### Envolvimento é o propulsor
 
 Ideia de que a melhoria contínua depende da participação e do engajamento das pessoas.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

@@ -38,14 +38,14 @@ Exemplos de perdas:
 
 ## Pilares técnicos
 
-Os nomes podem variar conforme a empresa, mas na aula apareceram estes pilares e siglas:
+Os nomes variam conforme o modelo e a empresa. A tabela abaixo registra a adaptação apresentada para o WMS da WEG, que é baseado em conceitos de WCM:
 
 | Sigla | Inglês | Português | Função principal |
 | --- | --- | --- | --- |
 | SAF | Safety | Segurança | Prevenir acidentes, reduzir riscos e fortalecer comportamento seguro. |
 | CD | Cost Deployment | Desdobramento de custos | Transformar perdas em impacto financeiro e priorizar projetos. |
 | FI | Focused Improvement | Melhoria focada | Atacar perdas prioritárias com projetos estruturados. |
-| AM | Autonomous Maintenance | Manutenção autônoma | Envolver operadores no cuidado básico dos equipamentos. |
+| AM | Autonomous Maintenance | Atividades autônomas no material WEG | Envolver operadores no cuidado básico e na identificação de anomalias. |
 | WO | Workplace Organization | Organização no posto de trabalho | Aplicar organização, limpeza, padrões visuais e 5S. |
 | PM | Professional Maintenance | Manutenção profissional | Reduzir falhas, quebras e paradas por manutenção planejada. |
 | QC | Quality Control | Controle da qualidade | Prevenir defeitos e garantir qualidade na fonte. |
@@ -79,6 +79,9 @@ O WCM se conecta a metas de classe mundial. Na aula, os objetivos apareceram na 
 - Zero atraso.
 - Zero quebra.
 - Zero desperdício.
+- Zero refugo.
+- Zero emissões.
+- Zero absenteísmo.
 
 ## O que melhora?
 
@@ -91,4 +94,15 @@ O WCM se conecta a metas de classe mundial. Na aula, os objetivos apareceram na 
 
 ## Empresas citadas como referência
 
-Exemplos anotados na aula: ALCOA, BMW, Bosch, Danone, Embraco, Natura e Nestlé.
+Exemplos anotados na aula: ALCOA, BMW, Bosch, Danone, Embraco, Natura e Nestlé. Esta lista foi preservada como anotação da disciplina e não como relação oficial de empresas certificadas ou integrantes de uma única rede WCM.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

@@ -17,3 +17,14 @@ Esta pasta reúne os métodos usados para melhorar processos já existentes.
 3. [[03 - Sistemas de Melhoria/Lean Six Sigma|Lean Six Sigma]]
 4. [[03 - Sistemas de Melhoria/WCM|WCM]]
 5. [[04 - WMS e Excelência Operacional/WMS|WMS]]
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

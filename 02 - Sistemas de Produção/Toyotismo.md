@@ -71,3 +71,14 @@ Uso de sinais, quadros, cores, indicadores e padrões visuais para facilitar mon
 - Organização.
 - Tempo de resposta ao cliente.
 - Identificação de problemas no processo.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

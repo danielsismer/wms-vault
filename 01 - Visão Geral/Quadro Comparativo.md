@@ -10,7 +10,7 @@
 | [[03 - Sistemas de Melhoria/Lean Six Sigma|Lean Six Sigma]] | Reduzir desperdício e variabilidade. | Dados, DMAIC, controle estatístico e causa raiz. | Reduz defeitos, retrabalho e instabilidade. |
 | [[03 - Sistemas de Melhoria/WCM|WCM]] | Organizar excelência operacional em pilares. | Cost Deployment, pilares técnicos, pilares gerenciais e priorização. | Ataca perdas relevantes com projetos estruturados. |
 | [[04 - WMS e Excelência Operacional/WMS|WMS]] | Gerir a melhoria contínua na WEG. | Perdas, desperdícios, padrões, métodos, KPI e engajamento. | Transforma melhoria contínua em rotina de gestão. |
-| [[04 - WMS e Excelência Operacional/Sistema de Gestão de Manufatura|Sistema de Gestão de Manufatura]] | Sustentar a evolução da manufatura. | Estabilidade básica, redução de perdas e metodologia dos pilares. | Cria base estável, otimiza perdas e transforma o sistema. |
+| [[04 - WMS e Excelência Operacional/Sistema de Gestão de Manufatura|WMS Manufacturing]] | Sustentar a evolução da manufatura. | Estabilidade básica, redução de perdas e melhoria sistêmica. | Cria base estável, otimiza perdas e transforma o sistema. |
 
 ## Diferenças importantes
 
@@ -33,7 +33,7 @@
 ### WMS x Sistema de Gestão de Manufatura
 
 - WMS: sistema de gestão da melhoria contínua.
-- Sistema de Gestão de Manufatura: estrutura operacional que organiza a evolução em estabilidade básica, redução de perdas e metodologia dos pilares.
+- WMS Manufacturing: aplicação na manufatura que organiza a evolução em estabilidade básica, redução de perdas e melhoria sistêmica.
 
 ### Perda x Desperdício
 
@@ -50,3 +50,14 @@ A evolução dos sistemas mostra uma ampliação de foco:
 4. Produzir com menos variabilidade.
 5. Gerir perdas e melhorias de forma sistêmica.
 6. Estabilizar, otimizar e transformar a manufatura por meio de padrões, rotina e pilares.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

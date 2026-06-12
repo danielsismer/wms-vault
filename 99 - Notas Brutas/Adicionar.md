@@ -137,3 +137,107 @@ Sistema de gestão de Manufatura
 - metodologia dos pilares(Transformar)
 	- 7 passos
 	- 
+	  
+	  gerenciamento de rotina- > o que é?
+		o gerenciamento da rotina é um acompanhametnto diario no chao de fabrica com objetico de promover a estabilidade; xxxxx
+		
+		
+		estabilidade da produção -> acompanhamento de kpis -> coleta dos dados -> plano de ação
+		
+		
+		- Comunicacao transparente
+		- motivação e senso de equipe
+		- FOco no que realmente importa
+		- 
+	 gerenciamento de rotina- > com funciona?
+	  Onde? é realizada na frente do painel pdrao de idicadores
+	  Objetivo? Permitir que todos visualizem rapidamente a situação
+	  Tempo e Frequencia? reunicao diaria, entre 5 a 10 minutos
+	  Membros? Area produtiva, cadeia de ajuda, segurança e qualidade
+	  Quem conduz? Chefe da area produtiva
+	  Principais topicos -> 
+	  
+		  -Problemas relacionados à segurança e seus motivos
+		  -Problemas relacionados a qualidade
+
+		O quadro da gestão visual
+		
+ cabeçalho SE QU ATE P MA
+principais kpis GU ALI END KAI ES NUT
+coleta de dados RAN DA IME ZEN SOA ENÇ
+KAI e KPI ÇA DE NTO S ÃO
+
+
+diferença de kai e kpi (foco, objetivo, exemplos, medição)
+
+
+  PORQUE ESTUDAR OS METODOS E TEMPOS NA WEG?
+- O TEMPO É A BASE PARA AVALIARMOS DIFERENTES ASPECTOS PARA A EMPRESA
+
+
+CUSTO DOS PRODUTOS, PROCESSO DE FABRICAÇÃO, PROGRAMA DA PRODUÇÃO, NUMERO DE COLABORADORES, ATENDIMENTO AO PRAZO DOS CLIENTES EM VOLTA DO TEMPO(FAÇA ISSO EM UM DIAGRAMA PARA FACILITAR A VISUALIZAÇÃO)
+
+
+OBJETIVO DO ESTUDO DE TEMPOS
+
+	-DETERMINAR TEMPOS PADROES
+	DETERMINAR OCUPACOES E APROVEITAMENTO DE MAQUINAS E MAO DE OBRA
+	FAZER BALANCEAMENTO DAS LINHAS DE PRODUCAO
+	DETERMINACO DO CUSTO DE TRANSFORMAÇAO DOS PRODUTOS
+	REALIZAR O PLANEJAMENTO E CONTROLE DE PRODUCAO
+	BASE DE DADOS PARA ELABORACAO DE PROJETOS DE NOVAS FABRICAS
+
+FERRAMENTAS UTILIZADAS, QUAIS SAO?
+
+- CRONOMETRAGEM -> CRONOANALISE
+	- CONCEITO
+		- MEDIDA DOS TEMPOS REALIZADAS POR OBSERVACAO DIRETA COM A UTILIZACAO DE UM CRONOMETRO
+		- ETAPAS
+			- ESTUDO DA OPERACO E DIVISAO EM ELEMENTOS
+			- OBSERVACAO DO COLABORADOR E CRONOMETRAR O TEMPO DE AO LONGO DO CICLO
+			- AVALIACAO DO RITMO DE ENTREGAS DO COLABORADOR
+			- DETERMINACAO DAS TOLERANCIAS - FADIGA
+			- DETERMINACAO DAS TOLERANCIAS - CONCESSAO
+- TEMPOS PRÉ-DETERMINADOS -> MTM
+
+
+BALANCEAMENTO DE LINHA, DEFINIR
+
+TEMPO DE GARGALO, DEFINIR 
+TEMPO DE SETUP, DEFINIR, TIPOS DE SETUP
+
+AVALIACAO DE AGREGACAO DE VALOR DAS ATIVIDADES
+	VAA
+		TRANSFORMA O PRODUTO DE ACORDO COM O QUE O CLIENTE ESTA DISPOSTO A PAGAR
+	NVAA-N
+		NAO TRANSFORMA O PRODUTO DIRETAMENTE, DE MANEIRA QUE O CLIENTE ESTARIA DISPOSTO A PAGAR, MAS SAO NECESSARIAS PARA GARANTIR O VALOR AGREGADO AO PRODUTO
+	NVAA
+		NAO TRANSFORMA O PRODUTO DIRETA OU INDIRETAMENTE, DE MANEIRA QUE O CLIENTE NAO ESTARIA DISPOTO A PAGAR
+	
+
+
+kaizen, o que é? como funciona? porque? contexto na weg; Dick fosbury
+
+metodologia 5g, o que é?
+5w1h - descrever o problema. o que é? para que serve?
+grafico de pareto;
+diagrama de causa e efeito (6m1d)
+5 por ques;
+5w2h;
+metodologia a3
+	aps
+	apq
+	apm
+	apmae
+	app;
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

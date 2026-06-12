@@ -1,6 +1,6 @@
 # WMS
 
-No contexto da aula, WMS é o sistema de gestão da melhoria contínua da WEG. Seu objetivo é identificar e eliminar perdas e desperdícios, reduzindo custos e gerando melhores resultados.
+WMS significa WEG Management System. É o sistema de gestão da melhoria contínua da WEG, voltado à identificação, redução e eliminação de perdas e desperdícios.
 
 ## O que é?
 
@@ -37,10 +37,14 @@ Os princípios básicos do WMS estão organizados em [[04 - WMS e Excelência Op
 
 - Organizar o fluxo de melhoria.
 - Reduzir lead time.
+- Melhorar time to market.
 - Aumentar produtividade.
 - Ganhar competitividade.
 - Atender melhor às expectativas dos clientes.
 - Aprimorar a gestão global da empresa.
+- Melhorar a visibilidade do desempenho das unidades.
+- Aperfeiçoar a cadeia de abastecimento.
+- Integrar áreas em objetivos estratégicos comuns.
 - Reduzir custos e melhorar resultados.
 
 ## Objetivos com foco em zerar
@@ -48,10 +52,12 @@ Os princípios básicos do WMS estão organizados em [[04 - WMS e Excelência Op
 Na aula, os objetivos apareceram associados à busca por "zero":
 
 - Zero acidente.
-- Zero defeito.
+- Zero refugo ou defeito.
 - Zero atraso.
 - Zero quebra, com apoio de manutenção preventiva e preditiva.
 - Zero desperdício.
+- Zero emissões.
+- Zero absenteísmo.
 
 ## Relação com WCM, Lean e Lean Six Sigma
 
@@ -62,8 +68,27 @@ Na aula, os objetivos apareceram associados à busca por "zero":
 
 ## Relação com sistema de gestão de manufatura
 
-O WMS também se conecta ao [[04 - WMS e Excelência Operacional/Sistema de Gestão de Manufatura|Sistema de Gestão de Manufatura]], que estrutura a evolução em estabilidade básica, redução de perdas e metodologia dos pilares.
+O WMS possui aplicações como WMS Manufacturing. Na manufatura, a implantação se estrutura em estabilidade básica, redução de perdas e melhoria sistêmica, conforme [[04 - WMS e Excelência Operacional/Sistema de Gestão de Manufatura|Sistema de Gestão de Manufatura]].
+
+## Gestão participativa
+
+O KaizenWEG estimula colaboradores a registrar e implantar melhorias. A WEG informou, em 24 de julho de 2025, ter alcançado 300 mil kaizens implantados desde 2016.
 
 ## Resultado esperado
 
 O WMS busca transformar melhoria contínua em rotina de gestão. A empresa deixa de resolver apenas problemas urgentes e passa a tratar causas, perdas e oportunidades de forma sistemática.
+
+## Fonte principal
+
+Consulte [[01 - Visão Geral/Fontes e Referências|Fontes e Referências]].
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

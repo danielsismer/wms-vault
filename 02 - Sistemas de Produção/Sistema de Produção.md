@@ -32,3 +32,14 @@ Um sistema de produção é o conjunto de pessoas, máquinas, materiais, método
 - Qual problema o Fordismo resolveu no início do século XX?
 - Por que o Toyotismo surgiu como alternativa à produção em massa?
 - Qual a diferença entre sistema empurrado e sistema puxado?
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

@@ -41,8 +41,8 @@ Os princípios básicos do WMS reforçam que segurança vem primeiro, a voz do c
 O sistema de gestão de manufatura foi apresentado em três movimentos:
 
 - Estabilidade básica: definir procedimentos, 5S, gerenciamento da rotina, métodos e tempos.
-- Redução de perdas: otimizar segurança, qualidade, custos, gases de efeito estufa e Kaizen.
-- Metodologia dos pilares: transformar o sistema usando pilares e método estruturado.
+- Redução de perdas: otimizar segurança, qualidade, meio ambiente e custos.
+- Melhoria sistêmica: transformar o sistema usando equipes multidisciplinares, pilares e método estruturado.
 
 ## 5S
 
@@ -51,10 +51,53 @@ O sistema de gestão de manufatura foi apresentado em três movimentos:
 ## Objetivos "zero"
 
 - Zero acidente.
-- Zero defeito.
+- Zero refugo ou defeito.
 - Zero atraso.
 - Zero quebra.
 - Zero desperdício.
+- Zero refugo.
+- Zero emissões.
+- Zero absenteísmo.
+
+## Gerenciamento da rotina
+
+É o acompanhamento frequente do processo por meio de gestão visual, indicadores e ações. A reunião diária deve ser curta, tratar desvios e terminar com responsável e prazo.
+
+## KAI x KPI
+
+- KAI mede a execução de atividades críticas que influenciam o resultado.
+- KPI mede o desempenho ou resultado alcançado.
+
+## Métodos e tempos
+
+O estudo de métodos define como o trabalho deve ser realizado; o estudo de tempos estabelece quanto tempo o método requer. Ele apoia custos, programação, capacidade, balanceamento, prazo e dimensionamento de pessoas.
+
+## Cronoanálise x MTM
+
+- Cronoanálise mede tempos observando ciclos reais com cronômetro.
+- MTM utiliza tempos predeterminados associados a movimentos para modelar o trabalho.
+
+## Balanceamento, gargalo e setup
+
+- Balanceamento distribui trabalho entre postos conforme o ritmo necessário.
+- Gargalo é o recurso que limita a capacidade do sistema.
+- Setup é a preparação para mudar produto ou condição; pode ser interno ou externo.
+
+## Agregação de valor
+
+- VAA: agrega valor para o cliente.
+- NVAA-N: não agrega valor, mas é necessária atualmente.
+- NVAA: não agrega valor e deve ser eliminada.
+
+## Ferramentas
+
+- 5W1H: descreve o problema.
+- 5G: verifica local, objeto, fatos, princípios e padrões.
+- Pareto: prioriza.
+- Ishikawa: organiza causas possíveis.
+- 5 Porquês: aprofunda causas.
+- 5W2H: organiza ações.
+- A3: estrutura o ciclo completo de solução e aprendizado.
 
 ## Perda x desperdício
 
@@ -67,3 +110,14 @@ Comissão costuma ser um grupo voltado a um tema ou problema específico, muitas
 ## Frase de fechamento
 
 A evolução dos sistemas mostra a passagem da produção em massa para a melhoria contínua estruturada: primeiro o foco era produzir mais; depois passou a ser produzir melhor, com menos desperdício, menos variabilidade, mais segurança e gestão baseada em dados.
+
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->

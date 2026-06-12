@@ -58,6 +58,8 @@ No Lean Six Sigma, os níveis de conhecimento e atuação costumam ser organizad
 | Black Belt | Lidera projetos complexos, domina ferramentas estatísticas e orienta equipes. |
 | Master Black Belt | Atua como especialista, mentor de Black Belts e referência metodológica para a organização. |
 
+Na documentação pública do sistema de qualidade da WEG aparecem explicitamente Yellow, Green, Black e Master Black Belt. White Belt é uma designação introdutória usada em muitos programas, mas não aparece nessa relação oficial da empresa.
+
 ## O que melhora?
 
 - Redução de defeitos.
@@ -70,3 +72,13 @@ No Lean Six Sigma, os níveis de conhecimento e atuação costumam ser organizad
 
 Nas anotações apareceu "TQP". Vale confirmar com a professora se ela se referia a TQP, TQM ou TQC, porque essas siglas podem variar conforme o material usado.
 
+<!-- autoria:start -->
+
+---
+
+**Material desenvolvido e organizado por:** Daniel Vinicius Rios Sismer
+
+- **GitHub:** [github.com/danielsismer](https://github.com/danielsismer)
+- **LinkedIn:** [Daniel Vinicius Rios Sismer](https://www.linkedin.com/in/daniel-vinicius-rios-sismer-b434b53b5/)
+
+<!-- autoria:end -->
